@@ -6,7 +6,6 @@ Finite difference solver for the 1D viscous Burgers equation in the Wolfram Lang
 Explicit finite differences on a periodic, validated against the exact solution (using Cole-Hopf transformation)
 
 Ruben Ranval 
-*ruben.ranval@polytechnique.edu*
 
 ### Introduction
 
