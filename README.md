@@ -1,5 +1,5 @@
 # BurgersFiniteDifferences
-Finite difference solver for the 1D viscous Burgers equation in the Wolfram Language (Mathematica), validated against the exact solution obtained using the Cole-Hopf transformation
+Finite difference solver for the 1D viscous Burgers equation in the Wolfram Language (Mathematica), validated against the exact solution obtained using the Cole-Hopf transformation.
 
 # The finite difference method for the viscous Burgers equation
 
